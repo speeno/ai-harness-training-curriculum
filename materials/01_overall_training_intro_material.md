@@ -28,6 +28,7 @@
 | 전체 프로그램 설명 | `01_overall_training_intro_material.md` | `10_promotion_and_proposal_material.md` | 교육 목적, 대상, 기간 선택이 설명되는가 |
 | 비개발자 1일 운영 | `02_non_developer_1_day_slides_recreated.md` | `03_non_developer_1_day_workbook_complete.md` | 업무 1건을 시나리오와 Skill 초안으로 정리할 수 있는가 |
 | 개발자 1일 운영 | `04_developer_1_day_slide_material.md` | `05_developer_1_day_practice_templates.md` | `SKILL.md`, Orchestrator, Task, 검증 메모가 연결되는가 |
+| 산업별 시나리오 참고 | `industry-use-cases/README.md` | `05_developer_1_day_practice_templates.md` | 업종별 use case와 실제 실행 가능한 Harness Lab이 연결되는가 |
 | 강사 운영 준비 | `06_instructor_operation_guide.md` | `07_evaluation_checklist.md` | 시간표, 중간 점검, 평가 기준이 준비되었는가 |
 | 3일 과정 확장 | `08_three_day_course_expansion_material.md` | `07_evaluation_checklist.md` | 파일럿 설계 패키지로 전환 가능한가 |
 | 1주 과정 확장 | `09_one_week_course_expansion_material.md` | `10_promotion_and_proposal_material.md` | 조직 표준, 운영 모델, 로드맵까지 설명되는가 |
