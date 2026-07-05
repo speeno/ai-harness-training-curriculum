@@ -5,6 +5,7 @@
 > 권장 시간: 09:00–17:00  
 > 대상: 기획, 운영, PM, 행정, 영업 지원, 품질, 컴플라이언스 등 비개발 직군  
 > 목표: 반복 업무 1건을 AI 에이전트가 수행 가능한 **Skill + Workflow + Workspace** 초안으로 전환한다.
+> 원본 기준: `materials/proposal package/4.비개발자1일교육PPT/하네스_Agent_Skills_비개발자_1일_교육.pdf` (19p)
 
 ---
 

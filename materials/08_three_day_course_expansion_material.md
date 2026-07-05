@@ -3,6 +3,7 @@
 > 과정명: 하네스(Harness) · Agent Skills 기반 기업 AI 교육  
 > 적용 범위: 비개발자 3일 과정, 개발자 3일 과정, 혼합 3일 과정  
 > 목적: 1일 과정에서 만든 초안을 실제 파일럿으로 넘길 수 있는 **설계 패키지** 수준으로 확장한다.
+> 참고: 과정 소개용 공통 슬라이드는 `materials/proposal package/03-course-options-1day-3day-1week.md`를 사용하고, 본 문서는 Day별 심화 운영 레슨으로 사용한다.
 
 ---
 

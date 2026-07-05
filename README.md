@@ -42,6 +42,7 @@
 - **반나절~1일 도입 워크숍**: 각 트랙의 `1-day.md`
 - **팀 표준을 잡고 파일럿까지**: `3-day.md`
 - **사내 거버넌스·템플릿·파일럿 검증까지**: `1-week.md`
+- **참가자 파일럿 주제 선정**: 트랙별 직무 공통 Use Case 카탈로그 — 비개발자 `non-developer/use-cases.md`, 개발자 `developer/use-cases.md` (각 12종 + Best Practice 8가지, 산업별 시나리오는 `materials/industry-use-cases/`)
 
 회사별로 이미 쓰는 도구(티켓·문서·승인 시스템)가 다르면, 각 문서 하단 **선택 도구 모듈**에 맞춰 채워 넣으면 됩니다.
 

@@ -42,6 +42,7 @@
 
 ## 기존 자료 연결
 
+- 직무 공통 Use Case 카탈로그(12종): [../../non-developer/use-cases.md](../../non-developer/use-cases.md) — 산업 축인 이 폴더와 달리 직무(기능) 축으로 참가자 개인 파일럿 주제를 고를 때 사용
 - 전체 흐름: [../01_overall_training_intro_material.md](../01_overall_training_intro_material.md)
 - 비개발 워크북: [../03_non_developer_1_day_workbook_complete.md](../03_non_developer_1_day_workbook_complete.md)
 - 개발자 실습 템플릿: [../05_developer_1_day_practice_templates.md](../05_developer_1_day_practice_templates.md)

@@ -5,6 +5,7 @@
 > 권장 시간: 09:00–17:00  
 > 대상: 소프트웨어 엔지니어, 플랫폼·DevEx, 데이터·자동화 엔지니어, 내부 도구 개발자  
 > 목표: Cursor 기반 하네스에서 **Agent, SKILL.md, Orchestrator, Task/Sub-agent, AGENTS.md, 검증**을 하나의 최소 실행 흐름으로 연결한다.
+> 원본 기준: `materials/proposal package/5.개발자1일교육PPT/하네스_Agent_Skills_개발자_1일_교육.pdf` (21p)
 
 ---
 
